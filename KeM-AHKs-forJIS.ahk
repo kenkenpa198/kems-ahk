@@ -15,11 +15,10 @@ KeM-AHKs.ahk と同時起動すると競合して動作に不良が出るよう�
 
 ;;; ベースの ahk ファイルを読み込み ;;;
 #Include KeM-AHKs.ahk
-#Include IME.ahk
 
 
 ;;; 右端のキーを置き換え ;;;
-sc07D::BS    ; ¥ で Back Space を送信
+sc07D::BS     ; ¥ で Back Space を送信
 sc073::RShift ; \ で右の Shift を送信
 sc02B::
     ; Shift + ] でパイプを送信
@@ -30,7 +29,7 @@ sc02B::
     ; ] で Enter を送信
     Send, {Enter}
     return
-F13 & sc02B::\   ; F13 + ] でバックスラッシュを送信
+F13 & sc02B::\ ; F13 + ] でバックスラッシュを送信
 
 
 ;;; IME 操作関連 ;;;
