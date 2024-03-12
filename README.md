@@ -1,5 +1,6 @@
 
-(2024-03-12) [kenkenpa198/dotfiles](https://github.com/kenkenpa198/dotfiles) での管理に移行しました。今後は同リポジトリ上のファイルを参照してください。
+(2024-03-12) [kenkenpa198/dotfiles](https://github.com/kenkenpa198/dotfiles) での管理に移行しました。  
+今後は同リポジトリ上のファイルを参照してください。
 
 ---
 
