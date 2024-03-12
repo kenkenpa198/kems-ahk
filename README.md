@@ -1,5 +1,5 @@
 <!-- omit in toc -->
-# KeM-AHKs
+# KeM's AHK
 
 自分用の Auto Hot Key ファイルたちです。  
 `Switch-AHKs.vbs` を実行することで、2種類の AHK の実行ファイルをトグル的に切り替えられるようにしています。
